@@ -1,4 +1,9 @@
 13-10-2018
+
 Discussed the blue print and how to intergrate the modules.
 GUI and a working model.
-Adder function.
+calling functions recursively : Supported 
+
+Action Item(AI) anshul:
+    Implement a running model : a basic one
+     
